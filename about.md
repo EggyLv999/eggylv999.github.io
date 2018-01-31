@@ -12,5 +12,5 @@ I'm a first-year master's student in the Machine Learning department at Carnegie
 I don't have a lot of publications yet, but here are some things I've worked on:
 
  - Generating Code from Natural Language 
- - Natural Language Inference on MultiNLI 
+ - Natural Language Inference on MultiNLI with Paul Michel (https://github.com/EggyLv999/MultiNLIStacked)
  - IJCAI 2017 Workshop: Getting your Fare Share: Joint work with Omer Lev, Ariel Procaccia, Xinyu Wu, Yair Zick, ([pdf](http://agt2017.net.technion.ac.il/files/2017/07/AGTIJCAI2017_paper_8_ChenLPWZ.pdf))
